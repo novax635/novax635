@@ -36,13 +36,5 @@ currently_learning = "Low-level systems & AI fundamentals"
 
 ---
 
-### repos
-
-| project | desc |
-|---|---|
-| [CS-Notes](https://github.com/novax635/CS-Notes) | Interview prep, Leetcode, OS, Networks |
-| [hermes-agent](https://github.com/novax635/hermes-agent) | AI agent — the agent that grows with you |
-
----
 
 <!-- "In a world of noise, be the signal." -->
